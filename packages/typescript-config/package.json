@@ -3,7 +3,16 @@
   "version": "0.0.0",
   "private": true,
   "license": "MIT",
+  "files": [
+    "base.json",
+    "nextjs.json",
+    "react-library.json",
+    "vite.json"
+  ],
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@acrobat-ui/button-wc": "^0.0.5"
   }
 }

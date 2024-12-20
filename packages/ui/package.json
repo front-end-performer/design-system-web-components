@@ -23,6 +23,7 @@
     "typescript": "5.5.4"
   },
   "dependencies": {
+    "@acrobat-ui/button-wc": "^0.0.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   }

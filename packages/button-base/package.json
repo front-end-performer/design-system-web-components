@@ -1,0 +1,19 @@
+{
+  "name": "@acrobat-ui/button-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/button.js",
+  "types": "dist/types/button.d.ts",
+  "scripts": {
+    "build": "tsc && node src/copy-assets.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lit": "^3.2.1"
+  },
+  "devDependencies": {
+    "typescript": "5.5.4"
+  }
+}
